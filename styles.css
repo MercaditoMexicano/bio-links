@@ -14,7 +14,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    background: hsla(180, 50%, 80%);
+    background: hsla(320, 50%, 50%);
 }
 
 header h1 {
@@ -46,7 +46,7 @@ main {
     justify-content: center;
     width: fit-content;
     padding: 20px 20px;
-    background: hsla(180, 50%, 80%, .9);
+    background: hsla(320, 50%, 50%, .9);
     border-radius: 20px;
 }
 
@@ -65,4 +65,5 @@ a img {
 
 footer {
     bottom: 0;
+
 }
