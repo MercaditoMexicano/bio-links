@@ -14,7 +14,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    background: hsla(320, 50%, 50%);
+    background: hsl(320, 50%, 50%);
 }
 
 header h1 {
@@ -67,3 +67,4 @@ footer {
     bottom: 0;
 
 }
+
